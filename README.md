@@ -1,4 +1,4 @@
-Resumo Projeto - Ciência de dados
+Projeto - Ciência de dados
 
 Disciplina: Tópicos de projetos 4
 
